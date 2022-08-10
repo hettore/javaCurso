@@ -209,6 +209,7 @@ public class Program {
 		
 		// Resolucao:
 		
+		/*
 		double x, y;
 		
 		System.out.println("por favor insira a coordenada de x: ");
@@ -233,6 +234,7 @@ public class Program {
 		} else {
 			System.out.println("FIM.");
 		}
+		*/
 		
 		
 	}
