@@ -13,5 +13,5 @@ Tópicos:
 
 :heavy_check_mark: Estrutura Sequencial <br>
 :heavy_check_mark: Estrutura Condicional <br>
- Estruturas Repetitivas <br>
+:heavy_check_mark: Estruturas Repetitivas <br>
  Programação Orientada a Objeto <br> 
