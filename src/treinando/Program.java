@@ -252,36 +252,22 @@ public class Program {
 		 * linha, mostrar o número da linha, depois o quadrado e o cubo do valor,
 		 * conforme exemplo
 		 * 
-		 * Entrada: 5. Saída: 1; 1; 1, 2; 4; 8, 3; 9; 27, 4; 16; 64, 5; 25; 125. 
+		 * Entrada: 5. Saída: 1; 1; 1, 2; 4; 8, 3; 9; 27, 4; 16; 64, 5; 25; 125.
 		 */
 
 		// Resolução:
-			
-		System.out.println("Por favor digite um número: ");
-		int n = sc.nextInt();
-		
-		for (int i = 1; i <= n ; i++) {
-			int linha = i;
-			int quadrado = i * i;
-			int cubo = i * i * i;
-		
-			System.out.printf(" %d %d %d%n", linha, quadrado, cubo );
-			
-		}
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
+
+		/*
+		 * System.out.println("Por favor digite um número: "); int n = sc.nextInt();
+		 * 
+		 * for (int i = 1; i <= n ; i++) { int linha = i; int quadrado = i * i; int cubo
+		 * = i * i * i;
+		 * 
+		 * System.out.printf(" %d %d %d%n", linha, quadrado, cubo );
+		 * 
+		 * } sc.close();
+		 */
+
 	}
 
 }
