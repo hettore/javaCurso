@@ -220,19 +220,68 @@ public class Program {
 		 * Saída: 1;
 		 * 
 		 */
-		
-		//Resolução:
-		
+
+		// Resolução:
+
 		/*
-		System.out.println("Por favor entre com um número: ");
-		int x = sc.nextInt();
-		int y = 1;
+		 * System.out.println("Por favor entre com um número: "); int x = sc.nextInt();
+		 * int y = 1;
+		 * 
+		 * for (int i = 1; i <= x; i++) { y = y * i; } System.out.println(y);
+		 */
+
+		/*
+		 * Exercício 6 Ler um número inteiro N e calcular todos os seus divisores.
+		 * 
+		 * Entrada: 6 Saída: 1; 2; 3; 6.
+		 */
+
+		// Resolução:
+
+		/*
+		 * System.out.println("Por favor digite um número: "); int n = sc.nextInt();
+		 * 
+		 * for (int i = 1; i <= n; i++) {
+		 * 
+		 * if (n % i == 0) { System.out.println(i); } } sc.close();
+		 */
+
+		/*
+		 * Exercício 7 Fazer um programa para ler um número inteiro positivo N. O
+		 * programa deve então mostrar na tela N linhas, começando de 1 até N. Para cada
+		 * linha, mostrar o número da linha, depois o quadrado e o cubo do valor,
+		 * conforme exemplo
+		 * 
+		 * Entrada: 5. Saída: 1; 1; 1, 2; 4; 8, 3; 9; 27, 4; 16; 64, 5; 25; 125. 
+		 */
+
+		// Resolução:
+			
+		System.out.println("Por favor digite um número: ");
+		int n = sc.nextInt();
 		
-		for (int i = 1; i <= x; i++) {
-			y = y * i;
+		for (int i = 1; i <= n ; i++) {
+			int linha = i;
+			int quadrado = i * i;
+			int cubo = i * i * i;
+		
+			System.out.printf(" %d %d %d%n", linha, quadrado, cubo );
+			
 		}
-		System.out.println(y);
-		*/
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
 	}
 
 }
