@@ -19,3 +19,6 @@ Tópicos:
  https://github.com/hettore/calculaRetangulo <br>
  https://github.com/hettore/calculandoSalarios <br>
  https://github.com/hettore/calculandoMedias <br>
+ https://github.com/hettore/membrosEstaticos <br>
+
+
