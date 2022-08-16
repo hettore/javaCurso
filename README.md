@@ -14,4 +14,8 @@ Tópicos:
 :heavy_check_mark: Estrutura Sequencial <br>
 :heavy_check_mark: Estrutura Condicional <br>
 :heavy_check_mark: Estruturas Repetitivas <br>
- Programação Orientada a Objeto <br> 
+:heavy_check_mark: Programação Orientada a Objeto <br> 
+ Lista de projetos: <br>
+ https://github.com/hettore/calculaRetangulo <br>
+ https://github.com/hettore/calculandoSalarios <br>
+ https://github.com/hettore/calculandoMedias <br>
