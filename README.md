@@ -20,5 +20,9 @@ Tópicos:
  https://github.com/hettore/calculandoSalarios <br>
  https://github.com/hettore/calculandoMedias <br>
  https://github.com/hettore/membrosEstaticos <br>
+:heavy_check_mark: Construtores palavra this, sobrecarga e encapsulamento <br>
+Lista de projeto: <br>
+https://github.com/hettore/gerenciandoEstoque <br>
+
 
 ...
