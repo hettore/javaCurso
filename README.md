@@ -28,5 +28,7 @@ https://github.com/hettore/bancoDigital <br>
 Lista de projetos: <br>
 https://github.com/hettore/vetoresMedias <br>
 https://github.com/hettore/mediaDeProdutos <br>
- 
+https://github.com/hettore/mostreOsNegativos <br>
+https://github.com/hettore/somaVetor <br>
+
 ...
