@@ -25,6 +25,6 @@ Lista de projeto: <br>
 https://github.com/hettore/gerenciandoEstoque <br>
 https://github.com/hettore/bancoDigital <br>
  Comportamento de memória, arrays e listas <br>
- 
+https://github.com/hettore/vetoresMedias <br>
  
 ...
