@@ -31,5 +31,7 @@ https://github.com/hettore/mediaDeProdutos <br>
 https://github.com/hettore/mostreOsNegativos <br>
 https://github.com/hettore/somaVetor <br>
 https://github.com/hettore/alturasVetor <br>
+https://github.com/hettore/numerosPares <br>
+
 
 ...
