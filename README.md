@@ -35,5 +35,6 @@ https://github.com/hettore/numerosPares <br>
 https://github.com/hettore/maiorPosicao <br>
 https://github.com/hettore/abaixoDaMedia <br>
 https://github.com/hettore/somandoVetores <br>
+https://github.com/hettore/mediaPares <br>
 
 ...
