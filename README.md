@@ -24,7 +24,7 @@ Tópicos:
 Lista de projetos: <br>
 https://github.com/hettore/gerenciandoEstoque <br>
 https://github.com/hettore/bancoDigital <br>
- Comportamento de memória, arrays e listas <br>
+:heavy_check_mark: Comportamento de memória, arrays e listas <br>
 Lista de projetos: <br>
 https://github.com/hettore/vetoresMedias <br>
 https://github.com/hettore/mediaDeProdutos <br>
