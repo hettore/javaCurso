@@ -43,7 +43,10 @@ https://github.com/hettore/desafioPensao <br>
 https://github.com/hettore/listaEmpregados <br>
 https://github.com/hettore/novaMatriz <br>
 https://github.com/hettore/matriz <br>
- Tópicos especiais em Java: data-hora <br>
+:heavy_check_mark: Tópicos especiais em Java: data-hora <br>
+https://github.com/hettore/aprendendoManipularDatas <br>
+ Bônus - nivelamento sobre Git e GitHub <br>
+ 
 
 
 ...
