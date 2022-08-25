@@ -45,8 +45,8 @@ https://github.com/hettore/novaMatriz <br>
 https://github.com/hettore/matriz <br>
 :heavy_check_mark: Tópicos especiais em Java: data-hora <br>
 https://github.com/hettore/aprendendoManipularDatas <br>
- Bônus - nivelamento sobre Git e GitHub <br>
- 
+:heavy_check_mark: Bônus - nivelamento sobre Git e GitHub <br>
+ Enumerações e composição <br>
 
 
 ...
