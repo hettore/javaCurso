@@ -47,6 +47,7 @@ https://github.com/hettore/matriz <br>
 https://github.com/hettore/aprendendoManipularDatas <br>
 :heavy_check_mark: Bônus - nivelamento sobre Git e GitHub <br>
  Enumerações e composição <br>
-
+https://github.com/hettore/enumeracao <br>
+https://github.com/hettore/composicao <br>
 
 ...
