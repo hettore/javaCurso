@@ -47,19 +47,19 @@ https://github.com/hettore/matriz <br>
 :heavy_check_mark: Tópicos especiais em Java: data-hora <br>
 https://github.com/hettore/aprendendoManipularDatas <br>
 :heavy_check_mark: Bônus - nivelamento sobre Git e GitHub <br>
-:heavy_check_mark:Enumerações e composição <br>
+:heavy_check_mark: Enumerações e composição <br>
 https://github.com/hettore/enumeracao <br>
 https://github.com/hettore/composicao <br>
 https://github.com/hettore/composicao2 <br>
 https://github.com/hettore/composicao3 <br>
- Herança e Polimorfismo <br>
+:heavy_check_mark: Herança e Polimorfismo <br>
 https://github.com/hettore/heranca <br>
 https://github.com/hettore/polimorfismo <br>
 https://github.com/hettore/exercicioPolimorfismo <br>
 https://github.com/hettore/metodosAbstratos <br>
 https://github.com/hettore/exercicioClasseAbstrata <br>
-
-
+ Tratamento de exceções: <br>
+https://github.com/hettore/tryCatch <br>
 
 
 ...
