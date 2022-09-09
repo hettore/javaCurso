@@ -5,8 +5,6 @@ link : https://www.udemy.com/course/java-curso-completo/
 
 Repositório com a finalidade de praticar os exercícios do curso.
 
-Obs: Estou subindo os exercícios aos poucos, a maioria já está pronto.
-
 Aqui venho atualizando os exercícios realizados e sim talvez não sejam as melhores respostas para as questões! <br>
 Porém quero deixar aqui registrado minha jornada de evolução dentro da linguagem java.
 
