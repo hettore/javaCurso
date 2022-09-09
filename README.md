@@ -58,9 +58,34 @@ https://github.com/hettore/polimorfismo <br>
 https://github.com/hettore/exercicioPolimorfismo <br>
 https://github.com/hettore/metodosAbstratos <br>
 https://github.com/hettore/exercicioClasseAbstrata <br>
- Tratamento de exceções: <br>
+:heavy_check_mark: Tratamento de exceções: <br>
 https://github.com/hettore/tryCatch <br>
 https://github.com/hettore/stackTrace <br>
 https://github.com/hettore/blocoFinally <br>
+https://github.com/hettore/exceptions1-java <br>
+https://github.com/hettore/exercicioExcecoes <br>
+
+:heavy_check_mark: Trabalhando com arquivos: <br>
+https://github.com/hettore/trabalhandoComArquivos <br>
+https://github.com/hettore/bufferedFileReader <br>
+https://github.com/hettore/bufferedWriter <br>
+https://github.com/hettore/manipulandoPastasComFile <br>
+https://github.com/hettore/exercicioSobreFiles1 <br>
+
+ Interfaces: <br>
+ https://github.com/hettore/interfaces <br>
+ https://github.com/hettore/desafioInterfaces <br>
+ https://github.com/hettore/cumprirContratoVsHerdar <br>
+ https://github.com/hettore/problemaDoDiamante <br>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
 
 ...
