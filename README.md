@@ -97,6 +97,7 @@ https://github.com/hettore/exercicioSobreFiles1 <br>
  https://github.com/hettore/desafioInterfaces <br>
  https://github.com/hettore/cumprirContratoVsHerdar <br>
  https://github.com/hettore/problemaDoDiamante <br>
+ https://github.com/hettore/interfaceComparable <br>
  
  
  
